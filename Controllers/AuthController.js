@@ -4,7 +4,7 @@ const jwt = require("jsonwebtoken");
 const User = require("../Models/User");
 // const { sendOTP, getOtp } = require("../utils/OTPService");
 const { encryptPass, getSalt, getToken } = require("../utils/AuthUtils");
-const { getOtp, sendOTP } = require("../Utils/OTPService");
+const { getOtp, sendOTP } = require("../utils/OTPService");
 
 
 

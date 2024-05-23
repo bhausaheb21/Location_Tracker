@@ -2,7 +2,7 @@ const express = require('express')
 const http = require('http')
 require('dotenv').config()
 const cors = require('cors')
-const { connectDB } = require('./Utils/db')
+const { connectDB } = require('./utils/db')
 const UserRouter = require('./Routes/AuthRoutes')
 const SocketServer = require('./SocketServer/Server')
 
