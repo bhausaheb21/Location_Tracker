@@ -1,4 +1,4 @@
-# 📄 Location Sharing API
+# 📍 Location Sharing API
 
 Welcome to the LOCATION SHARING API, a Node.js project for sharing locations!
 
