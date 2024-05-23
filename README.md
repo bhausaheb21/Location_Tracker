@@ -1,3 +1,18 @@
+# 📄 Location Sharing API
+
+Welcome to the LOCATION SHARING API, a Node.js project for sharing locations!
+
+## Features
+### 🔐 Authentication
+- **Sign Up**: Register new users for accessing the API.
+- **Login**: Authenticate users to access protected endpoints.
+- **Reset Password**: Allow users to reset their passwords if forgotten.
+- **Verify Email**: Verify user email addresses to activate accounts.
+  
+### 🌍 Location 
+- 🗺️ **Real-time Location Sharing:** Share your live location with others in a room.
+- 🔒 **Private Rooms:** Create private rooms and share the room ID with friends to start sharing locations.
+
 ## Setup
 
 ### Prerequisites
@@ -6,6 +21,7 @@
 ### Installation
 1. Clone the repository:
 -          git clone https://github.com/bhausaheb21/Location_Tracker.git
+           cd Loation_Tracker
 2. Create a `.env` file in the root directory.
  
 3. Define environment variables:
